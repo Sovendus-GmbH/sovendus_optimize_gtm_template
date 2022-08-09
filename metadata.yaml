@@ -1,0 +1,5 @@
+homepage: "https://www.sovendus.de"
+documentation: "https://docs.sovopt.com"
+versions:
+  - sha: a7ac7a3cb609207b61887eb46c38e9f96ee10e98
+    changeNotes: Initial release.
